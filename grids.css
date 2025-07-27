@@ -1,0 +1,323 @@
+.container-fluid{
+	margin: 8px;
+}
+.navbar{
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+}
+
+body{
+	background-image: url("C:/photos/shop19.jpg");
+	background-size: 100%;
+	z-index: -1;
+
+	}
+li a{
+ size: 15px;
+ font-family: Lucida Console;
+ font-size: 16px;
+
+}
+li a:hover,
+li a.active{
+	border-bottom: 3px solid #505978;
+
+}
+#lo1:hover{
+	color:#407A52; 
+
+}
+/*navbar completed*/
+
+h4{
+	margin: 10px;
+	margin-left: 45px;
+	padding-top: 30px;
+	font-weight: 15px;
+}
+.box{
+	display: inline-flex;
+	margin: 0px 50px 0px 50px;
+	padding: 0px;
+}
+.left{
+	width: 200px;
+
+}
+.right{
+	width: 300px;
+}
+hr{
+	width: 100px;
+	margin-left: 0;
+	margin-right: 0;
+
+}
+.ticket{
+    border: 2px;
+    border-radius: 5px;
+	width: 400px;
+	height: 550px;
+	margin-left: 20px;
+	margin-top: 20px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	position: fixed;
+	background:white;
+
+}
+button{
+	padding: 1px;
+	color: gray;
+
+}
+.button1{
+	border-radius: 12px;
+	margin-left: 50px;
+	border-color: red;
+	background-color: white;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.button2{
+	border-radius: 12px;
+	border-color: red;
+	background-color: white;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.button3{
+	border-radius: 12px;
+	border-color: red;
+	background-color: white;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.button3:hover{
+	border-color: black;
+}
+.button2:hover{
+	border-color: black;
+}
+.button1:hover{
+	border-color: black;
+}
+.box1{
+	display: inline-flex;
+	margin: 0px 50px 0px 50px;
+	padding: 0px;
+}
+.left1{
+	width: 200px;
+}
+.right1{
+	width: 300px;
+}
+.bigbox{
+	border-radius: 12px;
+	margin-left: 50px;
+	border-color: red;
+	background-color: white;
+}
+.hm{
+	width: 300px;
+}
+form{
+		border-radius: 12px;
+	    margin-left: 50px;
+
+}
+.final{
+	display: inline-flex;
+}
+.leftt{
+	padding: 20px;
+}
+.rightt{
+	padding-top:20px;
+}
+
+.left small,
+.right small{
+	color: gray;
+}
+
+.left1 small,
+.right1 small{
+	color: gray;
+}
+
+/*ticket booking closed*/
+
+.imk{
+	display: inline-flex;
+}
+ #lo{
+	font-family: Lucida Handwriting;
+	font-size: 35px;
+}
+#lo:hover{
+	color: #218F76;
+}
+h3{
+	color: white;
+}
+h3 a {
+font-family: Lucida Console;
+color: black;
+}
+.img-rounded{
+	margin: 8px;
+}
+.img-rounded:hover{
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+}
+.imf{
+	display: inline-flex;
+}
+p a{
+	color:black;
+	padding-right: 210px;
+}
+b{
+	display: inline-flex;
+
+}
+.co{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: black;
+}
+p a:hover{
+	color: #16453e;
+}
+
+/*images closed*/
+
+.navbar9{
+	display: inline-flex;
+
+}
+.navbar9 li{
+	display: inline-flex;
+	padding-right: 40px;
+
+}
+
+.navbar9 li a {
+		text-decoration: none;
+		color: black;
+		font-family: Lucida Console;
+		font-size: 18px;
+}
+li a:hover{
+	border-bottom: 3px solid #505978;
+	color: #16453e;
+}
+
+.try{
+    border: 2px;
+    border-radius: 10px;
+	width: 120px;
+	height: 135px;
+	margin-left: 20px;
+	margin-top: 0px;
+	padding: 25px;
+	cursor: pointer;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	background-color: white;
+
+}
+.try1{
+    border: 2px;
+    border-radius: 10px;
+	width: 120px;
+	height: 135px;
+	margin-left: 20px;
+	margin-top: 0px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 25px;
+	cursor: pointer;
+	background: white;
+}
+.total{
+	display: inline-flex;
+}
+
+.try1 big{
+	font-family: Lucida Console;
+	font-size: 18px;
+	color: red
+}
+.try big{
+	font-family: Lucida Console;
+	font-size: 18px;
+	color: red
+}
+
+.try:hover{
+    box-shadow:20px 20px 50px 10px #EAF0F1 inset;
+}
+.try1:hover{
+    box-shadow:20px 20px 50px 10px #EAF0F1 inset;
+}
+/*places closed*/
+
+.iml{
+padding-left: 0;
+width: 800px;
+height: 300px;
+}
+.boxxy{
+	width: 800px;
+	height: 270px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 10px;
+	padding-top: 1px;
+	border-radius: 5px;
+	background:white;
+}
+.bbb{
+	padding-left: 10px;
+}
+.center{
+	padding-top: 20px;
+	padding-left: 40px;
+	text-align: center;
+}
+
+.imgg{
+	width: 140px;
+	height: 70px;
+	opacity: 1;
+}
+.imgg:hover{
+	opacity: 0.5;
+}
+.imggh{
+	width: 140px;
+	height: 70px;
+	opacity: 1;
+}
+.imggh:hover{
+	opacity: 0.5;
+}
+.imgi{
+	width: 100px;
+	height: 90px;
+	opacity: 1;
+}
+.imgi:hover{
+	opacity: 0.5;
+}
+.dropdown-menu{
+	padding: 50px;
+}
+.img-circle{
+	width: 30px;
+	height: 30px;
+}
+p b{
+	color: black;
+}
+i{
+	color: black;
+}
